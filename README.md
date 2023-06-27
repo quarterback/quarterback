@@ -1,5 +1,4 @@
 <h1 align="left">Hi I'm Ron Bronson</h1>
-<p align="left"> <a href="https://twitter.com/ronbronson" target="blank"><img src="https://img.shields.io/twitter/follow/ronbronson?logo=twitter&style=for-the-badge" alt="ronbronson" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [ronbronson.design](ronbronson.design)
 
