@@ -2,6 +2,8 @@
 
 - I mostly use this as a combined live/work space, so many of my projects these days are holding pens for ideas I get and sometimes finish, but not always. Eventually, I'll make this readme more useful. There's a repo for the varied mods I've made for the text games I play, and a bevy of other personal pursuits. In the past, I've started a few civic-tech related groups as well.
 
+- [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion)](https://www.last.fm/user/statechampion)
+
 - 👨‍💻 Connect with me at [find.ronbronson.com](https://find.ronbronson.com)
 
 - 💬 Ask me about **civic tech, digital strategy, content strategy, UX, IA, text simulations sports games, skeeball, loose-leaf tea, and a host of other fun things.**
