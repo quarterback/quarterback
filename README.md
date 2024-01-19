@@ -1,10 +1,8 @@
 <h1 align="left">Hi I'm Ron Bronson</h1>
 
-- I mostly use this as a combined live/work space, so many of my projects these days are holding pens for ideas I get and sometimes finish, but not always. Eventually, I'll make this readme more useful. There's a repo for the varied mods I've made for the text games I play, and a bevy of other personal pursuits. In the past, I've started a few civic-tech related groups as well.
+- I started Indianapolis Design Week in 2018. I'm currently President of AIGA Portland, I teach service design & urban needs (UT360) at the University of Michigan Taubman College of Architecture & Urban Planning, and I'm director of design at 18F. I mostly use this account for varied projects. In the post-Twitter world, I'm still refining all of my online spaces and figuring out how I show up online. 
 
 - 👨‍💻 Connect with me at [find.ronbronson.com](https://find.ronbronson.com)
-
-- 💬 Ask me about **civic tech, digital strategy, content strategy, UX, IA, text simulations sports games, skeeball, loose-leaf tea, and a host of other fun things.**
   
 <h1 align="left">What I'm listening to</h1>
 
