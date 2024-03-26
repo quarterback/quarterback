@@ -1,7 +1,5 @@
 <h1 align="left">Hi I'm Ron Bronson</h1>
 
-- I started Indianapolis Design Week in 2018. I'm currently President of AIGA Portland, I teach UT360 (Service Design & Urban Needs) at the University of Michigan Taubman College of Architecture & Urban Planning, and I'm director of design at 18F. I mostly use this account for varied projects. In the post-Twitter world, I'm still refining all of my online spaces and figuring out how I show up online. 
-
 - 👨‍💻 Connect with me at [find.ronbronson.com](https://find.ronbronson.com)
   
 <h1 align="left">What I'm listening to</h1>
