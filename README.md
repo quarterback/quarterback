@@ -1,6 +1,5 @@
 <p align="center">
-  Work in public interest tech. Creating tools and frameworks to navigate complexity, focusing on strategic foresight, consequence design, and critical AI.  Outside of work, I like text simulation sports games, skeeball & niche sports. Past: 18F, University of Michigan, et. al.
-</p>
+  Work in public interest tech. Creating tools and frameworks to navigate complexity, focusing on strategic foresight, consequence design, and critical AI.  Outside of work, I like text simulation sports games, skeeball & niche sports. 
 
   
 <h1 align="left">What I'm listening to</h1>
