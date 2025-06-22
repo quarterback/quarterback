@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ron Bronson
+# I'm Ron
 
 I've been building on the internet for nearly 30 years.
 
