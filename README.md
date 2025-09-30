@@ -1,12 +1,6 @@
 # Howdy, I'm ron. 
 
-I'm most interested in giving names to things that we see, but that don't acknowledge as belonging to any one person. I've been writing about [Consequence Design](https://consequencedesign.org/) for nearly a decade.
-
-Most of my work has lived in this *middleware* for decades. From building large-scale sites from the ground up, working on migration, leading teams & bringing people together, I'm the person you call to make technology legible and understandable, without sacrificing technical depth or legibility. Most of my work sits somewhere between information architecture, service design, and front-end development. I find the idea that designers can't care about strategy revolting, and spend a lot of my time trying to amplify the ways that we can be involved in reimagining tech. 
-
 I like staying busy. 
-
-You can find me writing, building tools, and occasionally hosting events that sit between critical tech, civic life, and culture.
 
 ## 🎧 Live Listening Feed
 
