@@ -1,22 +1,55 @@
-# Howdy, I'm ron. 
+# Hi, I’m Ron
 
-I like staying busy. 
+ My research and applied work span design theory, software development, and technology, focusing on how systems of knowledge, coordination, and sensemaking shape & distort public life. 
+
+Currently focused on **state capacity**, **public mechanics**, and **AI-enabled service delivery**—how institutions learn, adapt, and repair themselves through design and documentation.
 
 ## 🎧 Live Listening Feed
 
 ![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion)
 
-## 🔧 Recently
 
-- 🏙️ Started [Portland Digital Corps](https://github.com/Digital-Corps-PDX), taking local technologists & building things in a short-term sprint format
-- Organized [Design For The Public 24](https://designforthepublic.com), a two-day conference for people who care about building for others
-- 🎳 Built a session-based skeeball rating system: [skeeboard.com](https://skeeboard.com)  
-- 🏛️ Spent 7 years with the [18F team](https://github.com/18F), helping transform federal digital services  
-- 🧩 Contributing to the [Agent Experience](https://agentexperience.org) thinking about how to shape the way AI agents will engage with the world around them
+## Silly Projects
 
-## 🗂️ Elsewhere
+* [Portland Digital Corps](https://github.com/Digital-Corps-PDX): a civic sprint experiment connecting local technologists with community organizations
+* [Tardigrade](https://digital-corps-pdx.github.io/tardigrade/): AI Disclosure patterns
+* [SKEEBoard](https://skeeboard.com): a session-based rating system for competitive skeeball
+* [Fragrance Selector](https://www.outofscopemag.com): My 90s designed fragrance collection selector using a domain I didn't end up using
+* [Civic Grift](https://civicgrift.lol): a joke site about the performance of civic innovation
 
-- 🌍 [find.ronbronson.com](https://find.ronbronson.com) – my everything page  
-- 🌀 [Bluesky](https://bsky.app/profile/ronbronson.com) – where I think out loud  
-- 📚 [Literal](https://literal.club/ron) – what I’m reading  
-- 💽 [Record Club](https://record.club/ron) – what I’m listening to (on vinyl)
+## Focus
+
+**Research & Practice Interests**
+
+design epistemology
+discursive and critical design
+design as inquiry
+context engineering
+agent experience
+socio-technical systems
+state capacity and digital governance
+organizational sensemaking
+institutional knowledge and learning
+public service design and delivery
+cybernetic planning and feedback
+technopolitics and administrative rationality
+AI-mediated decision-making
+human–AI relations and interpretability
+policy and algorithmic design
+collective coordination and interagency systems
+comparative governance models
+design anthropology and situated practice
+media ecologies and digital publics
+knowledge infrastructures and procedural legibility
+temporalities of modernization
+ethics of automation and delegation
+design pedagogy and civic competence
+
+## Elsewhere
+
+[find.ronbronson.com](https://find.ronbronson.com)
+[Bluesky](https://bsky.app/profile/ronbronson.com)
+[Literal](https://literal.club/ron)
+[Record Club](https://record.club/ron)
+[My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion)
+
