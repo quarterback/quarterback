@@ -47,9 +47,8 @@ design pedagogy and civic competence
 
 ## Elsewhere
 
-[find.ronbronson.com](https://find.ronbronson.com)
-[Bluesky](https://bsky.app/profile/ronbronson.com)
-[Literal](https://literal.club/ron)
-[Record Club](https://record.club/ron)
-[My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion)
+- [Bluesky](https://bsky.app/profile/ronbronson.com)
+- [Literal](https://literal.club/ron)
+- [Record Club](https://record.club/ron)
+- [My Last.fm](https://lastfm.com/statechampion)
 
