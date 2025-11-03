@@ -2,8 +2,6 @@
 
  My research and applied work span design theory, software development, and technology, focusing on how systems of knowledge, coordination, and sensemaking shape & distort public life. 
 
-Currently focused on **state capacity**, **public mechanics**, and **AI-enabled service delivery**—how institutions learn, adapt, and repair themselves through design and documentation.
-
 ## 🎧 Live Listening Feed
 
 ![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion)
