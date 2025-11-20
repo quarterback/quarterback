@@ -1,8 +1,9 @@
 # Hi, I’m Ron
 
-Internet researcher & critical designer. My core background is in 
+Internet researcher & critical designer with a background in UX, service design, and front-end development. 
 
-I've been building stuff online since 1995. I'm interested in the ways technology distorts public life, and these days, concern myself with both platform economics, implementation & maintainence of public software and thinking aloud about ways to interrupt the rapid-scale harm being wrought on everyday life by disinvested grifters detached from the consequences of their decisions. Despite all of that, I'm legitimately fun at parties. 
+I've been building stuff online since 1995.
+
 I spent over a decade as a civil servant at the local, state & federal level, most recently at <a href="https://18f.org">18F</a>. I'm also an Air Force veteran.
 
 ### Selected Affiliations & Leadership
