@@ -14,8 +14,7 @@ I spent over a decade as a civil servant at the local, state & federal level, mo
 *   Co-Founder, Portland Design Month (2024)
 *   State Tennis Co-Chair, OACA (2023-)
 *   City of Portland, Historic Landmarks Commission (2020-21)
-*   
-
+  
 ---
 
 ### 🛠️ Projects & Prototypes
