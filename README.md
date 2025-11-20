@@ -14,6 +14,7 @@
 * [SKEEBoard](https://skeeboard.com): a session-based rating system for competitive skeeball
 * [Fragrance Selector](https://www.outofscopemag.com): My 90s designed fragrance collection selector using a domain I didn't end up using
 * [Civic Grift](https://civicgrift.lol): a joke site about the performance of civic innovation
+* [AI Statements](https://aistatements.org/): What if we disclosed AI's usage like privacy statements?
 
 ## Focus
 
