@@ -1,11 +1,5 @@
 # Hi, I’m Ron
 
-Internet researcher & critical designer with a background in UX, service design, and front-end development. 
-
-I've been building stuff online since 1995.
-
-I spent over a decade as a civil servant at the local, state & federal level, most recently at <a href="https://18f.org">18F</a>. I'm also an Air Force veteran.
-
 ### Selected Affiliations & Leadership
 
 *   Assistant Professor of Practice in Urban Technology, Taubman College of Architecture & Urban Planning, University of Michigan
@@ -27,38 +21,6 @@ A collection of civic tech experiments, design research, and side quests.
 *   **[Tardigrade](https://digital-corps-pdx.github.io/tardigrade/)** • A pattern library for AI transparency and disclosure in user interfaces.
 *   **[SKEEBoard](https://skeeboard.com)** • A session-based Elo rating system for competitive skeeball.
 *   **[Civic Grift](https://civicgrift.lol)** • A satirical exploration of the "theater" of civic innovation.
-
----
-
-### 🔬 Research & Practice
-
-**Design Theory, Inquiry & Critical Practice**
-- Design as a mode of inquiry and critique
-- Discursive and critical design (designing arguments, not artifacts)
-- Pedagogies of civic competence and public-sector design literacy
-- Context engineering, agent experience, and post-interface decision spaces
-- Hype studies: how technological promises reshape expectations and institutions
-
-**Governance, State Capacity & Public Service Delivery**
-- Digital transformation grounded in the mechanics of implementation
-- Service delivery as the true locus of governance (not strategy decks)
-- Administrative friction, platform entrapment, and Exitory Design
-- Comparative models of state capability and public value
-- Procurement, vendor ecosystems, and the political economy of delivery
-- Failures as diagnostic tools for understanding the state
-
-**Socio-Technical Systems, Coordination & Knowledge**
-- Organizational memory, tacit knowledge, and decision latency
-- Interagency collaboration and multi-actor delivery
-- Cybernetic planning, feedback rituals, and pseudo-participation
-- Knowledge infrastructures, procedural legibility, and invisible labor
-- The rhythms of modernization, decay, repair, and maintenance
-
-**Human–AI Relations, Agents & Delegated Judgment**
-- AI-mediated decision pathways in public systems
-- Interpretability as shared understanding between humans and agents
-- Delegation, error, and the burden of correction
-- Media ecologies, automation rituals, and digital publics
 
 ---
 
