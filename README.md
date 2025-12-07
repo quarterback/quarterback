@@ -11,9 +11,8 @@
   
 ---
 
-### 🛠️ Projects & Prototypes
+### Junk Drawer of Experiments
 
-A collection of civic tech experiments, design research, and side quests.
 *   **[Consequence Design](https://consequencedesign.org)** A framework I developed in 2016 to think about interaction architecture & "hostile" design patterns.
 *   **Manipulation Engineering** An AI art project investigating the dark patterns and systemic designs intentionally built to manipulate, coerce, and control user behavior.
 *   **[Portland Digital Corps](https://github.com/Digital-Corps-PDX)** • A civic sprint model connecting technologists with community organizations.
@@ -21,6 +20,7 @@ A collection of civic tech experiments, design research, and side quests.
 *   **[Tardigrade](https://digital-corps-pdx.github.io/tardigrade/)** • A pattern library for AI transparency and disclosure in user interfaces.
 *   **[SKEEBoard](https://skeeboard.com)** • A session-based Elo rating system for competitive skeeball.
 *   **[Civic Grift](https://civicgrift.lol)** • A satirical exploration of the "theater" of civic innovation.
+*   **[Ron Fragrance Selector](https://www.outofscopemag.com/)** - This one won't last when the domain expires, but...I had to put my scent collection someplace. 
 
 ---
 
