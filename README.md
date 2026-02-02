@@ -1,26 +1,30 @@
 # Hi, I’m Ron
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-000000?style=for-the-badge&logo=flydotio&logoColor=white" />
-  <img alt="LLM" src="https://img.shields.io/badge/LLM-000000?style=for-the-badge" />
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+  <img alt="Public Mechanics" src="https://img.shields.io/badge/Public%20Mechanics-framework-6E56CF?style=flat" />
+  <img alt="Decision & Trust Engineering" src="https://img.shields.io/badge/Decision%20%26%20Trust%20Engineering-framework-0EA5E9?style=flat" />
+  <img alt="Judgment Routing" src="https://img.shields.io/badge/Judgment%20Routing-agents-22C55E?style=flat" />
+  <img alt="Context Engineering" src="https://img.shields.io/badge/Context%20Engineering-systems-F97316?style=flat" />
+  <img alt="Delivery Intelligence" src="https://img.shields.io/badge/Delivery%20Intelligence-ops-111827?style=flat" />
+</p>
+
+<p>
+  <img alt="TypeScript" height="32" src="https://skillicons.dev/icons?i=ts" />
+  <img alt="JavaScript" height="32" src="https://skillicons.dev/icons?i=js" />
+  <img alt="Python" height="32" src="https://skillicons.dev/icons?i=py" />
+  <img alt="Node.js" height="32" src="https://skillicons.dev/icons?i=nodejs" />
+  <img alt="React" height="32" src="https://skillicons.dev/icons?i=react" />
+  <img alt="Next.js" height="32" src="https://skillicons.dev/icons?i=nextjs" />
+  <img alt="PostgreSQL" height="32" src="https://skillicons.dev/icons?i=postgres" />
+  <img alt="Vercel" height="32" src="https://skillicons.dev/icons?i=vercel" />
+  <img alt="Netlify" height="32" src="https://skillicons.dev/icons?i=netlify" />
+  <img alt="Fly.io" height="28" src="https://img.shields.io/badge/Fly.io-7B4BFF?style=flat&logo=flydotio&logoColor=white" />
+  <img alt="LLM" height="28" src="https://img.shields.io/badge/LLM-444444?style=flat" />
+  <img alt="MCP" height="28" src="https://img.shields.io/badge/MCP-444444?style=flat" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-</p>
-
-</p>
 
 
 ### Selected Affiliations & Leadership
