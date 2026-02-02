@@ -1,14 +1,6 @@
 # Hi, I’m Ron
 
 <p>
-  <img alt="Public Mechanics" src="https://img.shields.io/badge/Public%20Mechanics-framework-6E56CF?style=flat" />
-  <img alt="Decision & Trust Engineering" src="https://img.shields.io/badge/Decision%20%26%20Trust%20Engineering-framework-0EA5E9?style=flat" />
-  <img alt="Judgment Routing" src="https://img.shields.io/badge/Judgment%20Routing-agents-22C55E?style=flat" />
-  <img alt="Context Engineering" src="https://img.shields.io/badge/Context%20Engineering-systems-F97316?style=flat" />
-  <img alt="Delivery Intelligence" src="https://img.shields.io/badge/Delivery%20Intelligence-ops-111827?style=flat" />
-</p>
-
-<p>
   <img alt="TypeScript" height="32" src="https://skillicons.dev/icons?i=ts" />
   <img alt="JavaScript" height="32" src="https://skillicons.dev/icons?i=js" />
   <img alt="Python" height="32" src="https://skillicons.dev/icons?i=py" />
@@ -23,8 +15,6 @@
   <img alt="MCP" height="28" src="https://img.shields.io/badge/MCP-444444?style=flat" />
 </p>
 
-
-
 ### Selected Affiliations & Leadership
 
 *   Assistant Professor of Practice in Urban Technology, Taubman College of Architecture & Urban Planning, University of Michigan
@@ -33,6 +23,14 @@
 *   Co-Founder, Portland Design Month (2024)
 *   State Tennis Co-Chair, OACA (2023-)
 *   City of Portland, Historic Landmarks Commission (2020-21)
+
+<p>
+  <img alt="Public Mechanics" src="https://img.shields.io/badge/Public%20Mechanics-framework-6E56CF?style=flat" />
+  <img alt="Decision & Trust Engineering" src="https://img.shields.io/badge/Decision%20%26%20Trust%20Engineering-framework-0EA5E9?style=flat" />
+  <img alt="Judgment Routing" src="https://img.shields.io/badge/Judgment%20Routing-agents-22C55E?style=flat" />
+  <img alt="Context Engineering" src="https://img.shields.io/badge/Context%20Engineering-systems-F97316?style=flat" />
+  <img alt="Delivery Intelligence" src="https://img.shields.io/badge/Delivery%20Intelligence-ops-111827?style=flat" />
+</p>
   
 ---
 
