@@ -16,7 +16,6 @@
   <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quarterback&show_icons=true&hide_title=true" />
 </p>
 
 </p>
