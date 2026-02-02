@@ -1,4 +1,4 @@
-# Hi, I’m Ron
+# Hi, I'm Ron
 
 <p>
   <img alt="TypeScript" height="32" src="https://skillicons.dev/icons?i=ts" />
@@ -10,19 +10,10 @@
   <img alt="PostgreSQL" height="32" src="https://skillicons.dev/icons?i=postgres" />
   <img alt="Vercel" height="32" src="https://skillicons.dev/icons?i=vercel" />
   <img alt="Netlify" height="32" src="https://skillicons.dev/icons?i=netlify" />
-  <img alt="Fly.io" height="28" src="https://img.shields.io/badge/Fly.io-7B4BFF?style=flat&logo=flydotio&logoColor=white" />
-  <img alt="LLM" height="28" src="https://img.shields.io/badge/LLM-444444?style=flat" />
-  <img alt="MCP" height="28" src="https://img.shields.io/badge/MCP-444444?style=flat" />
+  <img alt="Figma" height="32" src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### Selected Affiliations & Leadership
-
-*   Assistant Professor of Practice in Urban Technology, Taubman College of Architecture & Urban Planning, University of Michigan
-*   President Emeritus, AIGA Portland (Board President, 2023-25)
-*   Founding Director, PDX Digital Corps (2025)
-*   Co-Founder, Portland Design Month (2024)
-*   State Tennis Co-Chair, OACA (2023-)
-*   City of Portland, Historic Landmarks Commission (2020-21)
+Design director, professor, coach. I build tools that help teams and institutions actually deliver—and ship experiments in matching systems, trust infrastructure, and AI transparency.
 
 <p>
   <img alt="Public Mechanics" src="https://img.shields.io/badge/Public%20Mechanics-framework-6E56CF?style=flat" />
@@ -31,23 +22,58 @@
   <img alt="Context Engineering" src="https://img.shields.io/badge/Context%20Engineering-systems-F97316?style=flat" />
   <img alt="Delivery Intelligence" src="https://img.shields.io/badge/Delivery%20Intelligence-ops-111827?style=flat" />
 </p>
-  
----
 
 ---
 
-### 🎧 Live Listening Feed
+### Affiliations
+
+- Assistant Professor of Practice in Urban Technology, Taubman College, University of Michigan
+- President Emeritus, AIGA Portland (2023–25)
+- Founding Director, PDX Digital Corps (2025)
+- Co-Founder, Portland Design Month (2024)
+- State Tennis Co-Chair, OACA (2023–)
+
+---
+
+## Projects
+
+### Allocation, Trust & Matching
+
+**[Stratified Preference Allocation (SPA)](https://github.com/quarterback/frameworks)** — Matching architecture that replaces unlimited swipes/likes with scarce, tiered signals. Forces preference revelation, reduces spam, works across domains.
+
+Reference implementations: [HeyPBJ](https://heypbj.lovable.app) (dating) · [Leafroll](https://leafroll.bolt.host/) (professional networking)
+
+**[Glowrm](https://drydown.replit.app/documentation)** — Trust infrastructure for ATProto social apps: portable reputation, shared moderation, SPA-based resource allocation
+
+**[KizuKizu](https://kizukizu.club)** — Relational profiling built around connection archetypes
+
+**[Judgment Routing](https://github.com/quarterback/judgment-routing)** — Prototypes on delegated authority and agentic decision systems
+
+### Delivery & Public Systems
+
+**[Portland Digital Corps](https://digitalcorpspdx.org)** — Civic tech sprint that shipped projects for 6 Oregon organizations with 100+ participants  
+[GitHub](https://github.com/Digital-Corps-PDX) · [Final Report](https://digitalcorpspdx.org/report)
+
+**[Design For The Public 2024](https://www.designforthepublic.com/)** — Two-day independent conference on public interest design and service delivery
+
+**[Tardigrade](https://digital-corps-pdx.github.io/tardigrade/)** — Open disclosure patterns for AI systems: badges, contestability, human oversight indicators
+
+**[AI Statements](https://aistatements.org/)** — Standardized AI usage disclosures
+
+**[Consequence Design](https://consequencedesign.org)** — Framework for examining post-deployment harms, institutional erosion, and the DIRE methodology
+
+### Tools
+
+**[Oregon HS Tennis Rankings](https://oregontennis.org)** — Power Index rankings, playoff simulator, and league analysis for Oregon high school tennis
+
+---
+
+### Live Listening
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion&count=7&show_user=footer&bg_color=000000)](https://www.last.fm/user/statechampion)
 
 ---
 
-## Elsewhere
+### Elsewhere
 
-- [Bluesky](https://bsky.app/profile/ronbronson.com)
-- [Literal](https://literal.club/ron)
-- [Record Club](https://record.club/ron)
-- [My Last.fm](https://lastfm.com/statechampion)
-- [Mastodon](https://mastodon.social/@ronbronson)
-- [Mixcloud](https://www.mixcloud.com/908RB/)
-
+[Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion) · [Mastodon](https://mastodon.social/@ronbronson) · [Mixcloud](https://www.mixcloud.com/908RB/)
