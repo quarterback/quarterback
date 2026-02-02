@@ -39,6 +39,13 @@ Design director, professor, coach. I build tools that help teams and institution
 
 ### Allocation, Trust & Matching
 
+Allocation, Trust & Matching
+Stratified Preference Allocation (SPA) — A way to make people mean what they signal. Instead of unlimited likes or swipes, you get a limited budget and have to decide how to spend it. Works for dating, hiring, networking—anywhere matching happens.
+Reference implementations: HeyPBJ (dating) · Leafroll (professional networking)
+Glowrm — Reputation that follows you across apps. Get banned from one platform, it shows up when you try to join another. Built for ATProto.
+KizuKizu — A way to describe how you connect with people, not just who you are.
+Judgment Routing — When should a machine decide, and when should a human? Prototypes for drawing that line.
+
 **[Stratified Preference Allocation (SPA)](https://github.com/quarterback/frameworks)** — Matching architecture that replaces unlimited swipes/likes with scarce, tiered signals. Forces preference revelation, reduces spam, works across domains.
 
 Reference implementations: [HeyPBJ](https://heypbj.lovable.app) (dating) · [Leafroll](https://leafroll.bolt.host/) (professional networking)
