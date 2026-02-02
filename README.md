@@ -21,8 +21,6 @@
   <img alt="Fly.io" height="28" src="https://img.shields.io/badge/Fly.io-7B4BFF?style=flat&logo=flydotio&logoColor=white" />
   <img alt="LLM" height="28" src="https://img.shields.io/badge/LLM-444444?style=flat" />
   <img alt="MCP" height="28" src="https://img.shields.io/badge/MCP-444444?style=flat" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 
