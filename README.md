@@ -43,10 +43,11 @@ This work grows from 15+ years in service design, civic tech, and HCI research. 
 ### Affiliations
 
 - Assistant Professor of Practice in Urban Technology, Taubman College, University of Michigan
-- President Emeritus, AIGA Portland (2023–25)
-- Founding Director, PDX Digital Corps (2025)
-- Co-Founder, Portland Design Month (2024)
+- Board Member, State Capacity AI
 - State Tennis Co-Chair, OACA (2023–)
+- Founding Director, PDX Digital Corps (2025)
+- Board President, AIGA Portland (2023–25)
+- Co-Founder, Portland Design Month (2024)
 
 ---
 
