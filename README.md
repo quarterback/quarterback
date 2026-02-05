@@ -1,19 +1,6 @@
 # Hi, I'm Ron
 
 <p>
-  <img alt="TypeScript" height="32" src="https://skillicons.dev/icons?i=ts" />
-  <img alt="JavaScript" height="32" src="https://skillicons.dev/icons?i=js" />
-  <img alt="Python" height="32" src="https://skillicons.dev/icons?i=py" />
-  <img alt="Node.js" height="32" src="https://skillicons.dev/icons?i=nodejs" />
-  <img alt="React" height="32" src="https://skillicons.dev/icons?i=react" />
-  <img alt="Next.js" height="32" src="https://skillicons.dev/icons?i=nextjs" />
-  <img alt="PostgreSQL" height="32" src="https://skillicons.dev/icons?i=postgres" />
-  <img alt="Vercel" height="32" src="https://skillicons.dev/icons?i=vercel" />
-  <img alt="Netlify" height="32" src="https://skillicons.dev/icons?i=netlify" />
-  <img alt="Figma" height="32" src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-<p>
   <img alt="Public Mechanics" src="https://img.shields.io/badge/Public%20Mechanics-framework-6E56CF?style=flat" />
   <img alt="Decision & Trust Engineering" src="https://img.shields.io/badge/Decision%20%26%20Trust%20Engineering-framework-0EA5E9?style=flat" />
   <img alt="Judgment Routing" src="https://img.shields.io/badge/Judgment%20Routing-agents-22C55E?style=flat" />
