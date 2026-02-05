@@ -23,6 +23,23 @@
 
 ---
 
+## What I Do
+
+I design decision architectures for human-AI systems—who decides what, when, and with what authority.
+
+This work grows from 15+ years in service design, civic tech, and HCI research. Most system failures aren't interface problems—they're judgment routing problems. Wrong actor, wrong information, wrong authority structure.
+
+**Research areas:**
+- **Preference architecture**: Constraint design that reveals true intent (Stratified Preference Allocation)
+- **Trust infrastructure**: Portable reputation and shared moderation (Glowrm)
+- **Agentic economics**: The hidden costs of AI decision-making (Occupant Index)
+- **Disclosure systems**: Making AI decisions legible for public accountability (Tardigrade, AI Statements)
+- **Delegation frameworks**: When humans stay in the loop, when they don't (Judgment Routing)
+
+**The core insight:** Traditional design assumes human decision-makers. AI doesn't just change the interface—it changes who decides. My work formalizes what designers used to do intuitively: structuring authority, information flow, and trust.
+
+---
+
 ### Affiliations
 
 - Assistant Professor of Practice in Urban Technology, Taubman College, University of Michigan
@@ -35,41 +52,42 @@
 
 ## Projects
 
-### Allocation, Trust & Matching
+### Decision & Trust Systems
 
-Allocation, Trust & Matching
-Stratified Preference Allocation (SPA) — A way to make people mean what they signal. Instead of unlimited likes or swipes, you get a limited budget and have to decide how to spend it. Works for dating, hiring, networking—anywhere matching happens.
-Reference implementations: HeyPBJ (dating) · Leafroll (professional networking)
-Glowrm — Reputation that follows you across apps. Get banned from one platform, it shows up when you try to join another. Built for ATProto.
-KizuKizu — A way to describe how you connect with people, not just who you are.
-Judgment Routing — When should a machine decide, and when should a human? Prototypes for drawing that line.
-
-**[Stratified Preference Allocation (SPA)](https://github.com/quarterback/frameworks)** — Matching architecture that replaces unlimited swipes/likes with scarce, tiered signals. Forces preference revelation, reduces spam, works across domains.
+**[Stratified Preference Allocation (SPA)](https://github.com/quarterback/frameworks)** — Matching architecture that replaces unlimited swipes with scarce, tiered signals. Forces honest preference revelation, reduces spam. Works across dating, hiring, networking—anywhere matching happens.
 
 Reference implementations: [HeyPBJ](https://heypbj.lovable.app) (dating) · [Leafroll](https://leafroll.bolt.host/) (professional networking)
 
-**[Glowrm](https://drydown.replit.app/documentation)** — Trust infrastructure for ATProto social apps: portable reputation, shared moderation, SPA-based resource allocation
+**[Glowrm](https://drydown.replit.app/documentation)** — Trust infrastructure for ATProto: portable reputation, shared moderation, SPA-based resource allocation
 
-**[KizuKizu](https://kizukizu.club)** — Relational profiling built around connection archetypes
+**[KizuKizu](https://kizukizu.club)** — Relational profiling around connection archetypes. How you connect, not just who you are.
 
-**[Judgment Routing](https://github.com/quarterback/judgment-routing)** — Prototypes on delegated authority and agentic decision systems
+**[Judgment Routing](https://github.com/quarterback/judgment-routing)** — Prototypes for delegated authority in agentic systems. When should a machine decide? When should a human?
+
+### Research & Analysis
+
+**[Occupant Index](https://occupant.ee)** — AI cost intelligence tracking the "Judgment Premium" in reasoning model pricing
+
+Reasoning-class models (o1, DeepSeek-R1) have different economics than commodity inference. The Occupant Index tracks what aggregate "AI cost deflation" narratives miss: organizations building on AI judgment are taking an unhedged position on pricing that isn't deflating like they expect.
 
 ### Delivery & Public Systems
 
-**[Portland Digital Corps](https://digitalcorpspdx.org)** — Civic tech sprint that shipped projects for 6 Oregon organizations with 100+ participants  
+**[Portland Digital Corps](https://digitalcorpspdx.org)** — Civic tech sprint. Six Oregon organizations, 100+ participants, shipped projects.  
 [GitHub](https://github.com/Digital-Corps-PDX) · [Final Report](https://digitalcorpspdx.org/report)
 
-**[Design For The Public 2024](https://www.designforthepublic.com/)** — Two-day independent conference on public interest design and service delivery
+**[Design For The Public 2024](https://www.designforthepublic.com/)** — Two-day conference on public interest design and service delivery
 
-**[Tardigrade](https://digital-corps-pdx.github.io/tardigrade/)** — Open disclosure patterns for AI systems: badges, contestability, human oversight indicators
+**[Tardigrade](https://digital-corps-pdx.github.io/tardigrade/)** �� Open disclosure patterns for AI systems: badges, contestability, human oversight indicators
 
 **[AI Statements](https://aistatements.org/)** — Standardized AI usage disclosures
 
-**[Consequence Design](https://consequencedesign.org)** — Framework for examining post-deployment harms, institutional erosion, and the DIRE methodology
+**[Consequence Design](https://consequencedesign.org)** — Framework for post-deployment harms, institutional erosion, and the DIRE methodology
 
-### Tools
+### Tools & Systems Design
 
-**[Oregon HS Tennis Rankings](https://oregontennis.org)** — Power Index rankings, playoff simulator, and league analysis for Oregon high school tennis
+**[Oregon HS Tennis Rankings](https://oregontennis.org)** — Power Index rankings, playoff simulator, league analysis
+
+A complete analytical system: adjusted win percentage (APR), strength of schedule (SOS), flight-weighted scoring (FWS). Fair, transparent team rankings. Built because ranking systems are decision architectures—they encode what we value and who gets opportunities.
 
 ---
 
