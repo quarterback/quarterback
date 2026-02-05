@@ -13,8 +13,6 @@
   <img alt="Figma" height="32" src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-Design director, professor, coach. I build tools that help teams and institutions actually deliver—and ship experiments in matching systems, trust infrastructure, and AI transparency.
-
 <p>
   <img alt="Public Mechanics" src="https://img.shields.io/badge/Public%20Mechanics-framework-6E56CF?style=flat" />
   <img alt="Decision & Trust Engineering" src="https://img.shields.io/badge/Decision%20%26%20Trust%20Engineering-framework-0EA5E9?style=flat" />
