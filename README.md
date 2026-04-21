@@ -10,7 +10,7 @@ Currently PEIR at [Occupant](https://occupant.ee) / State Capacity AI. Assistant
 ## Running
 
 - **[occupant.ee](https://occupant.ee)** — Public benchmarks for AI compute. Three daily indices: Compute CPI (price deflation across model tiers), AEAI (token throughput, spend, energy), LDI (labor displacement cost-per-workload). 2,300+ models, open methodology.
-- **[oregontennis.org](https://oregontennis.org)** — Ranking system for Oregon high school tennis. Feeds the OSAA team tournament reform effort targeting 2026-27.
+- **[oregontennis.org](https://oregontennis.org)** — Ranking system for Oregon high school tennis.
 - **[makingpublicwork.com](https://makingpublicwork.com)** — Newsletter. Essays on how services actually work.
 
 ## Tinkering
