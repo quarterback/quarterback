@@ -2,7 +2,7 @@
 
 I build working prototypes for problems I'm thinking through. Most of what's here is either running in production or a proof-of-concept for an essay I haven't written yet.
 
-Currently PEIR at [Occupant](https://occupant.ee) / State Capacity AI. Assistant Professor of Practice in Urban Technology, Taubman College of Architecture and Urban Planning, University of Michigan.
+Currently PEIR at [Occupant](https://occupant.ee) / Director of the Public Capacity Lab, Assistant Professor of Practice in Urban Technology, Taubman College of Architecture and Urban Planning, University of Michigan.
 
 ### Live Listening
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion&count=7&show_user=footer&bg_color=000000)](https://www.last.fm/user/statechampion)
@@ -10,7 +10,7 @@ Currently PEIR at [Occupant](https://occupant.ee) / State Capacity AI. Assistant
 ## Running
 
 - **[occupant.ee](https://occupant.ee)** — Public benchmarks for AI compute. Three daily indices: Compute CPI (price deflation across model tiers), AEAI (token throughput, spend, energy), LDI (labor displacement cost-per-workload). 2,300+ models, open methodology.
-- **[oregontennis.org](https://oregontennis.org)** — Ranking system for Oregon high school tennis.
+- **[oregontennis.org](https://oregontennis.org)** — The only power ranking system for Oregon high school tennis.
 - **[makingpublicwork.com](https://makingpublicwork.com)** — Newsletter. Essays on how services actually work.
 
 ## Tinkering
