@@ -1,6 +1,6 @@
 # Hi, I'm Ron
 
-I build working prototypes for problems I'm thinking through. Most of what's here is either running in production or a proof-of-concept for an essay I haven't written yet.
+Deployment and public delivery. 
 
 Currently PEIR at [Occupant](https://occupant.ee) / Director of the Public Capacity Lab, Assistant Professor of Practice in Urban Technology, Taubman College of Architecture and Urban Planning, University of Michigan.
 
