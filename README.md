@@ -1,7 +1,7 @@
 Longtime internet denizen with a background in public sector tech delivery. I've been building things online since the mid-1990s. I care a lot more about society than tech.
 My lens applies discursive and critical frames and seeks to name things to help us better understand how they impact where we're headed. In the past, I've tried on terms like "service design" but no longer think it applies. It's a toolkit that can be useful for collaboration, but it'd be like an architect calling themselves a blueprinter or a plumber being focused on the gunk inside your garbage disposal. 
 
-Rather, I'd think of my practice as something *anti-manipulation engineering*. 
+I'd think of my practice these days as *anti-manipulation engineering*. 
 
 ## Right now
 - assistant professor of practice in urban tech at University of Michigan, Taubman College of Architecture & Urban Planning.  
