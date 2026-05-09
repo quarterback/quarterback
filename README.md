@@ -1,21 +1,18 @@
-Longtime internet denizen with a background in public sector tech delivery. I've been building things online since the mid-1990s. I care a lot more about society than tech.
-My lens applies discursive and critical frames and seeks to name things to help us better understand how they impact where we're headed. In the past, I've tried on terms like "service design" but no longer use it.
-
-I'd think of my practice these days as [*anti-manipulation engineering*](https://blog.ronbronson.com/everything-is-comicon-now).
-
-## Right now
-- assistant professor of practice in urban tech at University of Michigan, Taubman College of Architecture & Urban Planning.  
-## Past
-- Founder, PDX Digital Corps (2025), Past President AIGA Portland (2023-25), Founder of Indianapolis Design Week (2016) & Co-Founder of PDX Design Month (2024)
-- Organized: Years Ahead 26, Design For The Public 24 (Portland) Aggregate Conference (2014, Louisville)
-- Former Head of Design at 18F.gov & principal senior advisor in the US Technology Transformation Service. 
 
 ### Live Listening
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=statechampion&count=7&show_user=footer&bg_color=000000)](https://www.last.fm/user/statechampion)
 
 
-### Elsewhere
-[Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion) · [Mastodon](https://mastodon.social/@ronbronson)
+### Design & Research
+
+<p>
+  <img alt="Service Design" src="https://img.shields.io/badge/Service%20Design-research-8B5CF6?style=flat" />
+  <img alt="Systems Thinking" src="https://img.shields.io/badge/Systems%20Thinking-research-6366F1?style=flat" />
+  <img alt="User Research" src="https://img.shields.io/badge/User%20Research-research-0891B2?style=flat" />
+  <img alt="Design Strategy" src="https://img.shields.io/badge/Design%20Strategy-design-EC4899?style=flat" />
+  <img alt="Stakeholder Engagement" src="https://img.shields.io/badge/Stakeholder%20Engagement-facilitation-F59E0B?style=flat" />
+  <img alt="Policy & Practice" src="https://img.shields.io/badge/Policy%20%26%20Practice-research-6B7280?style=flat" />
+</p>
 
 ### Stack
 
@@ -40,16 +37,9 @@ I'd think of my practice these days as [*anti-manipulation engineering*](https:/
   <img alt="Astro" height="32" src="https://skillicons.dev/icons?i=astro" />
 </p>
 
-### Design & Research
+### Elsewhere
+[Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion) · [Mastodon](https://mastodon.social/@ronbronson)
 
-<p>
-  <img alt="Service Design" src="https://img.shields.io/badge/Service%20Design-research-8B5CF6?style=flat" />
-  <img alt="Systems Thinking" src="https://img.shields.io/badge/Systems%20Thinking-research-6366F1?style=flat" />
-  <img alt="User Research" src="https://img.shields.io/badge/User%20Research-research-0891B2?style=flat" />
-  <img alt="Design Strategy" src="https://img.shields.io/badge/Design%20Strategy-design-EC4899?style=flat" />
-  <img alt="Stakeholder Engagement" src="https://img.shields.io/badge/Stakeholder%20Engagement-facilitation-F59E0B?style=flat" />
-  <img alt="Policy & Practice" src="https://img.shields.io/badge/Policy%20%26%20Practice-research-6B7280?style=flat" />
-</p>
 
 ### Frameworks
 
