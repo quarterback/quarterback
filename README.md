@@ -1,5 +1,5 @@
 Longtime internet denizen with a background in public sector tech delivery. I've been building things online since the mid-1990s. I care a lot more about society than tech.
-My lens applies discursive and critical frames and seeks to name things to help us better understand how they impact where we're headed. In the past, I've tried on terms like "service design" but no longer think it applies. It's a toolkit that can be useful for collaboration, but it'd be like an architect calling themselves a blueprinter or a plumber being focused on the gunk inside your garbage disposal. 
+My lens applies discursive and critical frames and seeks to name things to help us better understand how they impact where we're headed. In the past, I've tried on terms like "service design" but no longer use it.
 
 I'd think of my practice these days as [*anti-manipulation engineering*](https://blog.ronbronson.com/everything-is-comicon-now).
 
@@ -15,7 +15,7 @@ I'd think of my practice these days as [*anti-manipulation engineering*](https:/
 
 
 ### Elsewhere
-[Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion) · [Mastodon](https://mastodon.social/@ronbronson) · [Mixcloud](https://www.mixcloud.com/908RB/)
+[Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion) · [Mastodon](https://mastodon.social/@ronbronson)
 
 ### Stack
 
@@ -38,6 +38,17 @@ I'd think of my practice these days as [*anti-manipulation engineering*](https:/
   <img alt="MCP" height="28" src="https://img.shields.io/badge/MCP-444444?style=flat" />
   <img alt="ATProto" height="28" src="https://img.shields.io/badge/ATProto-1185FE?style=flat" />
   <img alt="Astro" height="32" src="https://skillicons.dev/icons?i=astro" />
+</p>
+
+### Design & Research
+
+<p>
+  <img alt="Service Design" src="https://img.shields.io/badge/Service%20Design-research-8B5CF6?style=flat" />
+  <img alt="Systems Thinking" src="https://img.shields.io/badge/Systems%20Thinking-research-6366F1?style=flat" />
+  <img alt="User Research" src="https://img.shields.io/badge/User%20Research-research-0891B2?style=flat" />
+  <img alt="Design Strategy" src="https://img.shields.io/badge/Design%20Strategy-design-EC4899?style=flat" />
+  <img alt="Stakeholder Engagement" src="https://img.shields.io/badge/Stakeholder%20Engagement-facilitation-F59E0B?style=flat" />
+  <img alt="Policy & Practice" src="https://img.shields.io/badge/Policy%20%26%20Practice-research-6B7280?style=flat" />
 </p>
 
 ### Frameworks
