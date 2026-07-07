@@ -1,5 +1,5 @@
-Mostly derogatory thoughts about a world where consquential, opinionated infrastructure runs roughshod over decades of societal rails of trust. My goal? Building systems that are built for people. 
-
+Mostly derogatory thoughts about a world where consequential, opinionated infrastructure runs roughshod over decades of societal trust rails.
+Building systems that are built for people.
 
 ### Live Listening
 ![Last.fm Stats](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=statechampion)
