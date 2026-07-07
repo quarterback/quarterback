@@ -1,5 +1,6 @@
 ## Huh? Who? Why?
-I've spent most of my career building digital public infrastructure and Human-Civil-computer interaction. Right now, I'm focused on building trust plumbing tools for human-agent experience. 
+I've spent most of my career building digital public infrastructure and Human-Civil-computer interaction. My background is in design -- leading teams, building public-facing platforms and systems. 
+Right now, I'm focused on building trust plumbing tools for human-agent experience. I launch events, too.
 
 ### Live Listening
 ![Last.fm Stats](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=statechampion)
