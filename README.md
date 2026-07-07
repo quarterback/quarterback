@@ -1,4 +1,4 @@
-Mostly derogtory thoughts about a world where consquential, opinionated infrastructure runs roughshod over decades of societal rails of trust. My goal? Building systems that are built for people. 
+Mostly derogatory thoughts about a world where consquential, opinionated infrastructure runs roughshod over decades of societal rails of trust. My goal? Building systems that are built for people. 
 
 
 ### Live Listening
