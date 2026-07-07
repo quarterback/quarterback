@@ -1,4 +1,4 @@
-## Huh? Who? Why?"
+## Huh? Who? Why?
 I've spent most of my career building digital public infrastructure and Human-Civil-computer interaction. Right now, I'm focused on building trust plumbing tools for human-agent experience. 
 
 ### Live Listening
