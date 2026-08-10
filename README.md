@@ -7,6 +7,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/closedtab)](https://www.npmjs.com/package/closedtab)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/quarterback/closedtab/blob/main/LICENSE)
 [![Node](https://img.shields.io/node/v/closedtab)](https://www.npmjs.com/package/closedtab)
+
 [![Website](https://img.shields.io/badge/ronbronson.dev-000000?style=flat&logo=safari&logoColor=white)](https://www.ronbronson.dev)
 [![Blog](https://img.shields.io/badge/blog-FF5722?style=flat&logo=rss&logoColor=white)](https://blog.ronbronson.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/ronbronson.com)
