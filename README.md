@@ -40,6 +40,3 @@
 - [Service Design for AI: The Disintermediation Problem](https://blog.ronbronson.com/service-design-for-ai-the-disintermediation-problem)
 - [On AI and Care](https://blog.ronbronson.com/on-ai-and-care)
   
-### Elsewhere
-
-[ronbronson.dev](https://www.ronbronson.dev) — full catalog · [blog.ronbronson.com](https://blog.ronbronson.com) — writing · [contact@ronbronson.com](mailto:contact@ronbronson.com)
