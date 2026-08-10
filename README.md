@@ -6,3 +6,29 @@
 ### Elsewhere
 [Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion)
 
+### Tools
+
+- **[closedtab](https://github.com/quarterback/closedtab)** — Shared memory for human-agent work. A consistent after-action record of what you asked for, what the agent did, and the calls it made on its own. [npm](https://www.npmjs.com/package/closedtab)
+- **[judgment-routing](https://github.com/quarterback/judgment-routing)** — Primitives for agentic decision-making. 
+- **[AAR](https://github.com/quarterback/AAR)** — After-action records as a Claude skill.
+- **[beachwave](https://github.com/quarterback/beachwave)** — A deployable reference for live audio rooms on ATProto. Sign in with OAuth, create a room, run your own version.
+
+### Writing on agent experience
+
+- [Agent Experience Needs Failure Affordances](https://blog.ronbronson.com/agent-experience-needs-failure-affordances) — Escalation and exception signalling are separate infrastructure. Stafford Beer's algedonic channel, applied to agents.
+- [closedtab: A npm Shared Memory for You and Your AI Agents](https://blog.ronbronson.com/closedtab-a-npm-shared-memory-for-you-and-your-ai-agents)
+- [When AI Agents Meet Insurance Agents](https://blog.ronbronson.com/when-ai-agents-meet-insurance-agents) — State Farm rewrites contracts for 19,000 agents to fit AI into the work.
+- [Skill Issue Is Not a Product Strategy](https://blog.ronbronson.com/skill-issue-is-not-a-product-strategy)
+- [I Built a Claude Skill for After-Action Reviews on AI Agent Work](https://blog.ronbronson.com/i-built-a-claude-skill-for-after-action-reviews-on-ai-agent-work)
+- [On Anti-Delegation](https://blog.ronbronson.com/on-anti-delegation)
+- [Who Holds the Pen? Why AI Agents Need a Manager, Not Just a Manual](https://blog.ronbronson.com/who-holds-the-pen-why-ai-agents-need-a-manager-not-just-a-manual)
+- [Context Is Not Just a Map, It's the Terrain](https://blog.ronbronson.com/context-is-not-just-a-map-its-the-terrain)
+- [Why I Made AIStatements.org](https://blog.ronbronson.com/why-i-made-aistatements-org)
+- [Context Engineering for LLMs Starts With Systems, Not Prompts](https://blog.ronbronson.com/context-engineering-for-llms-starts-with-systems-not-prompts)
+- [Context-Aware Agents: Designing for Alignment in AX](https://blog.ronbronson.com/context-aware-agents-designing-for-alignment-in-ax)
+- [Service Design for AI: The Disintermediation Problem](https://blog.ronbronson.com/service-design-for-ai-the-disintermediation-problem)
+- [On AI and Care](https://blog.ronbronson.com/on-ai-and-care)
+- 
+### Elsewhere
+
+[ronbronson.dev](https://www.ronbronson.dev) — full catalog · [blog.ronbronson.com](https://blog.ronbronson.com) — writing · [contact@ronbronson.com](mailto:contact@ronbronson.com)
