@@ -3,11 +3,6 @@
 ### Live Listening
 ![Last.fm Stats](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=statechampion)
 
-[![npm](https://img.shields.io/npm/v/closedtab)](https://www.npmjs.com/package/closedtab)
-[![npm downloads](https://img.shields.io/npm/dm/closedtab)](https://www.npmjs.com/package/closedtab)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/quarterback/closedtab/blob/main/LICENSE)
-[![Node](https://img.shields.io/node/v/closedtab)](https://www.npmjs.com/package/closedtab)
-
 [![Website](https://img.shields.io/badge/ronbronson.dev-000000?style=flat&logo=safari&logoColor=white)](https://www.ronbronson.dev)
 [![Blog](https://img.shields.io/badge/blog-FF5722?style=flat&logo=rss&logoColor=white)](https://blog.ronbronson.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/ronbronson.com)
@@ -18,11 +13,12 @@
 ### Elsewhere
 [Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion)
 
-### Standards
-
-Member, [W3C Agent-to-Web Framework (A2WF) Community Group](https://www.w3.org/community/a2wf)
-
 ### Tools
+[![npm](https://img.shields.io/npm/v/closedtab)](https://www.npmjs.com/package/closedtab)
+[![npm downloads](https://img.shields.io/npm/dm/closedtab)](https://www.npmjs.com/package/closedtab)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/quarterback/closedtab/blob/main/LICENSE)
+[![Node](https://img.shields.io/node/v/closedtab)](https://www.npmjs.com/package/closedtab)
+
 - **[closedtab](https://github.com/quarterback/closedtab)** — Shared memory for human-agent work. A consistent after-action record of what you asked for, what the agent did, and the calls it made on its own. [npm](https://www.npmjs.com/package/closedtab)
 - **[judgment-routing](https://github.com/quarterback/judgment-routing)** — Primitives for agentic decision-making. 
 - **[AAR](https://github.com/quarterback/AAR)** — After-action records as a Claude skill.
