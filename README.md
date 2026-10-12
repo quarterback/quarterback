@@ -13,6 +13,19 @@
 ### Elsewhere
 [Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion)
 
+### Projects, programs & other things I've made
+
+- **[Consequence Design](https://blog.ronbronson.com/what-is-it)** — A design and research practice concerned with the consequences of products, services, and the decisions built into them.
+- **[Portland Digital Corps](https://digitalcorpspdx.org/)** — Founded a volunteer-powered civic tech program in 2025. Cross-functional teams took on short projects for six nonprofit and community organizations.
+- **[City of Bloomington](https://github.com/City-of-Bloomington)** — Helped rebuild the city's website and content platform, develop its digital design practice, and improve public-facing services.
+- **[18F](https://github.com/18F)** — Built and led design teams, contributed to government products and open-source methods, and helped develop new delivery capabilities.
+- **[BMG Hack / Code for Bloomington](https://github.com/BMGhack)** — Helped organize a Code for America brigade for local civic technology projects.
+- **[Indy Design Week](https://www.indydesignweek.com/)** — Founded a citywide design event that continued under new organizers.
+- **[Design for the Public](https://www.designforthepublic.com/)** — Created an independent conference about design, government, and public service delivery.
+- **[Local Government Design Systems](https://github.com/quarterback/local-government-design-systems)** — Collected and shared open-source municipal and state design systems and pattern libraries.
+- **[Oregon Tennis](https://oregontennis.org/)** — Built high school tennis rankings and tournament models using original rating formulas.
+- **[Pensulo](https://quarterback.itch.io/pensulo)** — A print-and-play deck of 47 cards for breaking creative blocks and exploring new ideas.
+
 ### Tools
 [![npm](https://img.shields.io/npm/v/closedtab)](https://www.npmjs.com/package/closedtab)
 [![npm downloads](https://img.shields.io/npm/dm/closedtab)](https://www.npmjs.com/package/closedtab)
