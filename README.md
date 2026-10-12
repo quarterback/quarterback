@@ -13,19 +13,6 @@
 ### Elsewhere
 [Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion)
 
-### Projects, programs & other things I've made
-
-- **[Consequence Design](https://blog.ronbronson.com/what-is-it)** — A design and research practice concerned with the consequences of products, services, and the decisions built into them.
-- **[Portland Digital Corps](https://digitalcorpspdx.org/)** — Founded a volunteer-powered civic tech program in 2025. Cross-functional teams took on short projects for six nonprofit and community organizations.
-- **[City of Bloomington](https://github.com/City-of-Bloomington)** — Helped rebuild the city's website and content platform, develop its digital design practice, and improve public-facing services.
-- **[18F](https://github.com/18F)** — Built and led design teams, contributed to government products and open-source methods, and helped develop new delivery capabilities.
-- **[BMG Hack / Code for Bloomington](https://github.com/BMGhack)** — Helped organize a Code for America brigade for local civic technology projects.
-- **[Indy Design Week](https://www.indydesignweek.com/)** — Founded a citywide design event that continued under new organizers.
-- **[Design for the Public](https://www.designforthepublic.com/)** — Created an independent conference about design, government, and public service delivery.
-- **[Local Government Design Systems](https://github.com/quarterback/local-government-design-systems)** — Collected and shared open-source municipal and state design systems and pattern libraries.
-- **[Oregon Tennis](https://oregontennis.org/)** — Built high school tennis rankings and tournament models using original rating formulas.
-- **[Pensulo](https://quarterback.itch.io/pensulo)** — A print-and-play deck of 47 cards for breaking creative blocks and exploring new ideas.
-
 ### Tools
 [![npm](https://img.shields.io/npm/v/closedtab)](https://www.npmjs.com/package/closedtab)
 [![npm downloads](https://img.shields.io/npm/dm/closedtab)](https://www.npmjs.com/package/closedtab)
@@ -52,4 +39,45 @@
 - [Context-Aware Agents: Designing for Alignment in AX](https://blog.ronbronson.com/context-aware-agents-designing-for-alignment-in-ax)
 - [Service Design for AI: The Disintermediation Problem](https://blog.ronbronson.com/service-design-for-ai-the-disintermediation-problem)
 - [On AI and Care](https://blog.ronbronson.com/on-ai-and-care)
-  
+
+### Projects, programs & things I've built
+
+- **[Consequence Design](https://blog.ronbronson.com/what-is-it)** — An approach to design that takes downstream consequences and the life of systems after launch seriously.
+- **[Portland Digital Corps](https://digitalcorpspdx.org/)** — Founded and ran a volunteer civic tech sprint in 2025; teams helped six Oregon organizations ship projects.
+- **[City of Bloomington](https://github.com/City-of-Bloomington)** — Worked on the city's website and content platform, design practice, and public-facing services.
+- **[18F](https://github.com/18F)** — Contributed to government products and open-source methods; built and led design teams and delivery capabilities.
+- **[BMG Hack / Code for Bloomington](https://github.com/BMGhack)** — Helped organize a local Code for America brigade.
+- **[Indy Design Week](https://www.indydesignweek.com/)** — Founded a citywide design event that continued under new organizers.
+- **[Design for the Public](https://www.designforthepublic.com/)** — Created an independent two-day conference on public-interest design and technology.
+- **[Local Government Design Systems](https://github.com/quarterback/local-government-design-systems)** — A directory of reusable state and municipal design systems and pattern libraries.
+- **[Oregon Tennis](https://oregontennis.org/)** — Built high-school tennis rankings and explored alternative competition formats with original rating models.
+- **[Pensulo](https://quarterback.itch.io/pensulo)** — A print-and-play card deck for creative prompts and experiments.
+
+### Writing beyond agent experience
+
+- [Public Delivery Is Statecraft](https://blog.ronbronson.com/public-delivery-is-statecraft) — Digital public infrastructure, operational capacity, and what it takes to deliver.
+- [The Carrying Costs of Everyday Life](https://blog.ronbronson.com/the-carrying-costs-of-everyday-life) — Value, public obligations, and the origins of Public Mechanics.
+- [Design As Repair](https://blog.ronbronson.com/design-as-repair) — Remarks from IxDA Oslo on keeping systems working.
+- [On Public Mechanics (Or Why I'm Done Talking About “Civic Tech”)](https://blog.ronbronson.com/on-public-mechanics-or-why-im-done-talking-about-civic-tech) — Public delivery beyond the civic-tech label.
+- [Libraries Weren't the Point](https://blog.ronbronson.com/libraries-werent-the-point-fiscal-archetypes-for-speculative-civics) — Fiscal archetypes and speculative civics.
+- [The Interface Trap](https://blog.ronbronson.com/the-interface-trap-how-administrative-systems-create-unsolvable-problems) — How administrative systems manufacture unsolvable problems.
+- [Dark Patterns Won](https://blog.ronbronson.com/dark-patterns-won) — Deceptive design and the platform economy.
+- [The Bureaucratic Banality of Andor](https://blog.ronbronson.com/the-bureaucratic-banality-of-andor) — Popular culture, bureaucracy, and power.
+- [You Don't Always Get a Second Chance (On Civic Moonshots)](https://blog.ronbronson.com/you-dont-always-get-a-second-chance-on-civic-moonshots) — Portland baseball, public investments, and missed opportunities.
+- [Ranking the Unrankable](https://blog.ronbronson.com/ranking-the-unrankable-building-a-better-system-for-oregon-high-school-tennis) — Building and testing a high-school tennis ranking model.
+- [On Developing Leaders](https://blog.ronbronson.com/on-developing-leaders) — Leadership lessons from coaching high-school tennis.
+- [Some advice on managing your design career upwards](https://piccalil.li/blog/some-advice-on-managing-your-design-career-upwards/) — Published in Piccalilli.
+- [On Being Anything Other Than a Designer](https://blog.ronbronson.com/on-being-anything-other-than-a-designer) — The work between finding problems and fixing them.
+
+### Interviews, press & talks
+
+- [Leading the Field: Ron Bronson](https://codeforamerica.org/news/leading-the-field-ron-bronson/) — Code for America, 2025.
+- [The Soft Labor Questionnaire: Ron Bronson](https://www.softlabor.biz/the-soft-labor-questionnaire-ron-bronson/) — Soft Labor, 2025.
+- [Repairing Service Design for the Age of AI](https://podcasts.apple.com/br/podcast/repairing-service-design-for-the-age-of-ai-ron-bronson-ep-236/id1104665758?i=1000726081505) — Service Design Show, 2025.
+- [What? Huh? Me? Huh? What?](https://dididothat.design/episode/what-huh-me-huh-what-with-ron-bronson) — Did I Do That? podcast, 2025.
+- [Ron Bronson](https://www.humansofpublicservice.org/story/ron-bronson) — Humans of Public Service, 2022.
+- [Revision Path: Episode 409](https://revisionpath.com/ron-bronson/) and [Episode 53](https://revisionpath.com/ron-bronson-2014/) — Interviews in 2021 and 2014 about design, development, and public-sector work.
+- [The Directory of Local Government Design Systems](https://www.govtech.com/civic/Whats-New-in-Civic-Tech-The-Directory-of-Local-Gov-Design-Systems.html) — Government Technology, 2019.
+- [Deceptive Design / Consequence Design](https://digital.gov/event/2020/10/15/uswds-monthly-call-october-2020) — Digital.gov / U.S. Web Design System talk, 2020.
+- [Bronson Leads Civic Tech Panels at U-M Service Design Weekend](https://taubmancollege.umich.edu/news/2026/04/15/bronson-leads-civic-tech-panels-at-u-m-service-design-weekend/) — University of Michigan, 2026.
+
