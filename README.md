@@ -81,6 +81,12 @@
 - [Deceptive Design / Consequence Design](https://digital.gov/event/2020/10/15/uswds-monthly-call-october-2020) — Digital.gov / U.S. Web Design System talk, 2020.
 - [Bronson Leads Civic Tech Panels at U-M Service Design Weekend](https://taubmancollege.umich.edu/news/2026/04/15/bronson-leads-civic-tech-panels-at-u-m-service-design-weekend/) — University of Michigan, 2026.
 
+### Software & analytics
+
+- **[Mallo](https://www.mallo.fi/)** — Live pesäpallo analytics built from official Finnish baseball results data, with custom performance metrics, projections, and game-level analysis. [Source](https://github.com/quarterback/pesis)
+- **[Cap Buffet](https://capbuffet.com/)** — Live, sport-agnostic salary-cap rules builder and compliance checker. Compose cap mechanics, apply them to rosters, and see how different rules change what's permissible. [Source](https://github.com/quarterback/caponomics)
+- **[Rosterlytics](https://github.com/quarterback/PortalOOTP)** — Open-source roster-management and analytics software for Out of the Park Baseball, extending Hector OOTP Analyzer with player valuation, contracts, roster construction, trades, and auction tools.
+
 ### Game design & simulation
 
 - **[Tennis Polo / Toccer](https://ronbronson.substack.com/p/a-dilettantes-guide-to-inventing)** — A field sport developed with campers in 2004, then playtested and revised over subsequent summers.
