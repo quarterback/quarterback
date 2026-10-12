@@ -50,8 +50,18 @@
 - **[Indy Design Week](https://www.indydesignweek.com/)** — Founded a citywide design event that continued under new organizers.
 - **[Design for the Public](https://www.designforthepublic.com/)** — Created an independent two-day conference on public-interest design and technology.
 - **[Local Government Design Systems](https://github.com/quarterback/local-government-design-systems)** — A directory of reusable state and municipal design systems and pattern libraries.
-- **[Oregon Tennis](https://oregontennis.org/)** — Built high-school tennis rankings and explored alternative competition formats with original rating models.
+- **[Tennis Polo / Toccer](https://ronbronson.substack.com/p/a-dilettantes-guide-to-inventing)** — An original field sport developed and playtested with campers beginning in 2004, with rules refined over subsequent summers.
 - **[Pensulo](https://quarterback.itch.io/pensulo)** — A print-and-play card deck for creative prompts and experiments.
+
+### Software & analytics
+
+- **[OregonTennis.org](https://oregontennis.org/)** — A live Oregon high-school tennis rankings site, with original adjusted power ratings, historical results, and models for alternative competition formats. [Source](https://github.com/quarterback/or-tennis-data)
+- **[Mallo](https://www.mallo.fi/)** — A live analytics application for Finnish baseball (pesäpallo), using official results data to explore player and team performance. [Source](https://github.com/quarterback/pesis)
+- **[Cap Buffet](https://capbuffet.com/)** — A live salary-cap system constructor. Build rules from reusable mechanisms, test rosters against them, and compare the consequences of different league designs. [Source](https://github.com/quarterback/caponomics)
+- **[Viperball](https://github.com/quarterback/viperball)** — An original football ruleset and collegiate dynasty simulator, built around lateral play, tactical kicking, and its own scoring and league systems.
+- **[Play to Clinch](https://blog.ronbronson.dev/3mudm62kyes2n)** — A team-tennis simulation spanning high-school, collegiate, and professional play, including recruiting, player development, coaching, and changing competition structures.
+- **[O27 / Alternative Rules Baseball](https://blog.ronbronson.dev/3mkymyk3fwc2r)** — A baseball–cricket–pesäpallo hybrid with redesigned innings, batting orders, pitching rules, and tactical choices.
+- **[Rosterlytics](https://github.com/quarterback/PortalOOTP)** — A roster-management and analytics application for Out of the Park Baseball, extending Hector OOTP Analyzer with player valuations, trades, contracts, team building, and auction tools.
 
 ### Writing beyond agent experience
 
@@ -80,19 +90,6 @@
 - [The Directory of Local Government Design Systems](https://www.govtech.com/civic/Whats-New-in-Civic-Tech-The-Directory-of-Local-Gov-Design-Systems.html) — Government Technology, 2019.
 - [Deceptive Design / Consequence Design](https://digital.gov/event/2020/10/15/uswds-monthly-call-october-2020) — Digital.gov / U.S. Web Design System talk, 2020.
 - [Bronson Leads Civic Tech Panels at U-M Service Design Weekend](https://taubmancollege.umich.edu/news/2026/04/15/bronson-leads-civic-tech-panels-at-u-m-service-design-weekend/) — University of Michigan, 2026.
-
-### Software & analytics
-
-- **[Mallo](https://www.mallo.fi/)** — Live pesäpallo analytics built from official Finnish baseball results data, with custom performance metrics, projections, and game-level analysis. [Source](https://github.com/quarterback/pesis)
-- **[Cap Buffet](https://capbuffet.com/)** — Live, sport-agnostic salary-cap rules builder and compliance checker. Compose cap mechanics, apply them to rosters, and see how different rules change what's permissible. [Source](https://github.com/quarterback/caponomics)
-- **[Rosterlytics](https://github.com/quarterback/PortalOOTP)** — Open-source roster-management and analytics software for Out of the Park Baseball, extending Hector OOTP Analyzer with player valuation, contracts, roster construction, trades, and auction tools.
-
-### Game design & simulation
-
-- **[Tennis Polo / Toccer](https://ronbronson.substack.com/p/a-dilettantes-guide-to-inventing)** — A field sport developed with campers in 2004, then playtested and revised over subsequent summers.
-- **[Viperball](https://github.com/quarterback/viperball)** — An invented football code and collegiate dynasty simulator built around lateral play, tactical kicking, and a different scoring system.
-- **[O27 / Alternative Rules Baseball](https://blog.ronbronson.dev/3mkymyk3fwc2r)** — A baseball–cricket–pesäpallo hybrid with a 27-out innings, tactical jokers, and redesigned lineup and pitching rules.
-- **[Play to Clinch](https://blog.ronbronson.dev/3mudm62kyes2n)** — A team-tennis simulation spanning high school, college, and pro play, with recruiting, development, rankings, coaching, and evolving league structures.
 
 ### Writing on game mechanics
 
