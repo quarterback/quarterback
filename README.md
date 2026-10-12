@@ -81,3 +81,21 @@
 - [Deceptive Design / Consequence Design](https://digital.gov/event/2020/10/15/uswds-monthly-call-october-2020) — Digital.gov / U.S. Web Design System talk, 2020.
 - [Bronson Leads Civic Tech Panels at U-M Service Design Weekend](https://taubmancollege.umich.edu/news/2026/04/15/bronson-leads-civic-tech-panels-at-u-m-service-design-weekend/) — University of Michigan, 2026.
 
+### Game design & simulation
+
+- **[Tennis Polo / Toccer](https://ronbronson.substack.com/p/a-dilettantes-guide-to-inventing)** — A field sport developed with campers in 2004, then playtested and revised over subsequent summers.
+- **[Viperball](https://github.com/quarterback/viperball)** — An invented football code and collegiate dynasty simulator built around lateral play, tactical kicking, and a different scoring system.
+- **[O27 / Alternative Rules Baseball](https://blog.ronbronson.dev/3mkymyk3fwc2r)** — A baseball–cricket–pesäpallo hybrid with a 27-out innings, tactical jokers, and redesigned lineup and pitching rules.
+- **[Play to Clinch](https://blog.ronbronson.dev/3mudm62kyes2n)** — A team-tennis simulation spanning high school, college, and pro play, with recruiting, development, rankings, coaching, and evolving league structures.
+
+### Writing on game mechanics
+
+- [A dilettante's guide to inventing a sport](https://ronbronson.substack.com/p/a-dilettantes-guide-to-inventing) — Twenty years of Tennis Polo, from its original rules to playtesting in summer camps.
+- [I Asked for a Box Score. I Ended Up Building a Universe.](https://blog.ronbronson.dev/3mfzicodgrc2j) — How Viperball became a sport and a computer simulation.
+- [Building a team chemistry model](https://blog.ronbronson.dev/3mkqgisfp7k2v) — Roster composition, team leadership, coach fit, and how they affect outcomes.
+- [How I Fixed Baseball Sim Prospect Development Breaks](https://blog.ronbronson.dev/3mn7c3uzctk2a) — Player-development curves, hidden ability, and imperfect scouting information.
+- [Bringing a cricket-style lineup to baseball](https://blog.ronbronson.dev/3morm3vffvs2u) — Making a reversible batting order an actual strategic choice.
+- [Rebuilding player development in a PC sports sim](https://blog.ronbronson.dev/3mudm62kyes2n) — Recalibrating a fictional high-school tennis league against real Oregon data.
+- [The Chip Window](https://blog.ronbronson.dev/3mjkhluucpc2j) — A proposed redesign of NBA draft incentives.
+- [Bringing the nerdiest problem in sports to my fake football game](https://blog.ronbronson.dev/3mhrtssj2ks2e) — From the Omnivore Rankings to computer ratings for Viperball.
+
