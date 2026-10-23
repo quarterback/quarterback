@@ -19,6 +19,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/quarterback/closedtab/blob/main/LICENSE)
 [![Node](https://img.shields.io/node/v/closedtab)](https://www.npmjs.com/package/closedtab)
 [![skills.sh](https://img.shields.io/badge/skills.sh-closedtab-black)](https://skills.sh/quarterback/closedtab)
+[![skills.sh](https://skills.sh/b/quarterback/plain-as-day)](https://skills.sh/quarterback/plain-as-day)
 
 - **[closedtab](https://github.com/quarterback/closedtab)** — Shared memory for human-agent work. A consistent after-action record of what you asked for, what the agent did, and the calls it made on its own. [npm](https://www.npmjs.com/package/closedtab)
 - **[judgment-routing](https://github.com/quarterback/judgment-routing)** — Primitives for agentic decision-making. 
