@@ -9,6 +9,8 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~ronbronson)
 [![W3C](https://img.shields.io/badge/W3C_A2WF-005A9C?style=flat&logo=w3c&logoColor=white)](https://www.w3.org/community/a2wf)
 [![Email](https://img.shields.io/badge/contact-333333?style=flat&logo=maildotru&logoColor=white)](mailto:contact@ronbronson.com)
+github: quarterback
+custom: ["https://ronbronson.dev"]
 
 ### Elsewhere
 [Bluesky](https://bsky.app/profile/ronbronson.com) · [Literal](https://literal.club/ron) · [Record Club](https://record.club/ron) · [Last.fm](https://last.fm/user/statechampion)
